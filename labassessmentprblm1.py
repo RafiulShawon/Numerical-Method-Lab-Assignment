@@ -1,3 +1,5 @@
+#find the smallest number in the loop
+
 arr=[70,56,4,5,45]
 lowest=arr[0]
 
